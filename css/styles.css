@@ -36,6 +36,10 @@ color: #2e2f42;
     color: #404bbf;
 }
 
+.contacts {
+font-style: normal;
+}
+
 .contacts-items {
     font-family: "Roboto", sans-serif;
 font-weight: 400;
